@@ -1,0 +1,27 @@
+ที่,STU-ID,Name,Age Group,ประสบการณ์การทำงาน (ปี),มหาวิทยาลัย,Faculty Group,คณะ,Business Group,กลุ่มงาน/Business,Department
+1,6410424001, นายพงศธร   โกษลาเกษม,<=25,2,KMUTT,Engineering,Mechanical(Energy) Engineering ,Manufacturing,Energy industry,Operation
+2,6410424002, นายวรพล   จารีย์,<=25,2,KU,Non-IT,Economics,Sales and Services,Finance/Banking,Support
+3,6410424003, นายปิยะโชติ   โชติวรากุล,<=25,3,CU,Engineering,Engineering,Sales and Services,Financial software,IT
+4,6410424004, นางสาวณรีรินทร์   มีกุล,26 -30,4,CU,Non-IT,Commerce & Accountancy,Sales and Services,Telco,Sales and Marketing
+5,6410424005, นายอธิพัฒน์   แสงธรรมรัตน์,26 -30,4,KMITL,IT,Information Enginerring,Sales and Services,Telco,Support
+6,6410424006, นางสาวอาภา   อัศวเบ็ญจาง,26 -30,3,KMITL,IT,Information Enginerring,Sales and Services,Telco,IT
+7,6410424007, นายพรสุชัย   ลันสุชีพ,26 -30,2,Silpakorn University,Non-IT,Pharmacy,Sales and Services,Banking,IT
+8,6410424008, นางสาวธนพร   เอี่ยมอ่อน,26 -30,4,Thammasat University,Non-IT,Economics,Sales and Services,Finance/Banking,F&A
+9,6410424009, นางสาวเปรมฤดี   ทองเมืองหลวง,26 -30,5,Thammasat University,Engineering,Computer Engineering,Sales and Services,Accounting,IT
+10,6410424010, นายศุภชัย   ตันสุวรรณ,26 -30,5,CU,Non-IT,Commerce & Accountancy,Sales and Services,Banking,Support
+11,6410424011, นางสาวสุปวีณ์  คงชาตรี,26 -30,4,KMUTNB,IT,Com science,Sales and Services,Telco,IT
+12,6410424012, นายนรวิชญ์   ชรารินทร์,26 -30,5,KU,Engineering,Computer Engineer,Sales and Services,Banking,IT
+13,6410424013, นางสาวชลันดา   งามเกษมสุข,26 -30,6,Chula,Non-IT, Business Adm.,Sales and Services,Oil and Gas,F&A
+14,6410424014, นายรณกฤต   เสริมสกุล,26 -30,8,KMUTT,Engineering,Electrical and Communication Engineer(Bilingual),Sales and Services,System Integrator(SI) for Telecommunication / Government,Sales and Marketing
+15,6410424015, นางสาวจันทร์ธร   บรรเทิง,31 -35,9,KU,Non-IT,Management Science,Sales and Services,TelCo,Support
+16,6410424016, นายนิธิวัฒน์   พิทักษ์วงศ์ทอง,31 -35,10,UTCC,Non-IT,International Business Management,Sales and Services,Retail Business,Support
+17,6410424017, นายสธนินท์   นุ่มแทน,31 -35,11,Sripatum,IT,Business Computer,Sales and Services,Automotive,IT
+18,6410424018, นายธีรนัย   ศรีภักดี,31 -35,15,KU,IT,Computer Science,Manufacturing,Manufacturing,IT
+19,6410424019, นายจิตเกษม   ปินทะยา,> 35,12,KMITL,Engineering,Computer Engineering,Sales and Services,Digital Agency,IT
+20,6410424020, นางสาวอาทิตยา   บุญอาจ,> 35,14,KU,IT,Computer Science,Sales and Services,Media,Sales and Marketing
+21,6410424021, นางสาวปภัสสร   เลิศสกุลบรรลือ,> 35,14,Thammasat University,Non-IT,Commerce and accountancy,Sales and Services,Finance&Accounting,IT
+22,6410424022, นางสาวรัศมี   สงวนพงษ์,> 35,16,SUT,Engineering,Electrical Engineering,Manufacturing,Hard Disk Drive,Operation
+23,6410424023, ว่าที่ร้อยตรีกิติพงษ์   วิเศษชาติ,> 35,18,CRU,Non-IT,Science Program in Applied Statistics,Sales and Services,Shipping/Subsea Services,IT
+24,6410424024, นางสาวพัชร์ทิตา   ธิติภิรมย์ลาภ,> 35,18,KMITL,IT,Computer Science,Sales and Services,Consulting,IT
+25,6410424025, นายราเชน   พานิชย์ดี,> 35,25,Thammasat University,Non-IT,Liberal Arts,Sales and Services,Media/ Consult,IT
+,,,,,,,,,,
